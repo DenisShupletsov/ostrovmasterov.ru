@@ -1,0 +1,8 @@
+#menu li a, #menu li span {float: left !important;}
+
+#menu li ul {float: left;}
+#menu li ul li {float: none;}
+
+#main .left-block {margin-right: 25px;}
+
+.in-gallery img {left: 15px; top: 20px;}

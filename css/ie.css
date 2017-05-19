@@ -1,0 +1,10 @@
+
+#bwidth {border: 2px solid #eaeaea;}
+
+#menu {width: 960px; padding: 0 10px;}
+#menu li {display: block; float: left;}
+#menu li ul {/*background-color: #d7e9ec;*/background-color: #e3f1f1;}
+#menu li ul li {position: static; background-color: #e3f1f1; display: block; float: left;}
+#menu li ul li a {display: block;}
+#menu li ul li, #menu li ul li a, #menu li ul li span {color: #2E6585;}
+#menu li:hover, #menu li.jshover, #menu li.sel {background-color: #cae5ec;}
